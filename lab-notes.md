@@ -13,3 +13,6 @@
 
 ## Partner's  Contribution
 - Added my name Debbie and a new bullet point
+
+## Partner's Contribution
+-Added my name Dominyka and a bullet point
